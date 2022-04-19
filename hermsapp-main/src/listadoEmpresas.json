@@ -1,0 +1,23 @@
+[
+    {   "idOpcion":"1",
+        "opcion":"TSYSTEMS",
+        "valorHexadec":"#f00"
+    },
+    {
+        "idOpcion":"2",
+        "opcion":"DEUTCHE TELECOM",
+        "valorHexadec":"#0f0"
+    },
+    {
+        "idOpcion":"3",
+        "opcion":"TELEFONICA",
+        "valorHexadec":"#00f"
+    },
+    {
+        "idOpcion":"4",
+        "opcion":"casa paco",
+        "valorHexadec":"#00f"
+    }
+
+]
+

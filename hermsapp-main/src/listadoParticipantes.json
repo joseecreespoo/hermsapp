@@ -1,0 +1,23 @@
+[
+    {   "idOpcion":"1",
+        "opcion":"JAIRO",
+        "valorHexadec":"#f00"
+    },
+    {
+        "idOpcion":"2",
+        "opcion":"ELENA",
+        "valorHexadec":"#0f0"
+    },
+    {
+        "idOpcion":"3",
+        "opcion":"JOSE",
+        "valorHexadec":"#00f"
+    },
+    {
+        "idOpcion":"4",
+        "opcion":"MANUEL",
+        "valorHexadec":"#00f"
+    }
+
+]
+

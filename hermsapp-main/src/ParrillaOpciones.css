@@ -1,0 +1,41 @@
+.btnCont>*{
+    list-style: none;
+    width: 50%;
+    align-items: center;
+}
+
+.btnCont li button{
+    width: 100px;
+    height: 100px;
+    margin:10% 20%;
+    border-radius: 10px;
+    background-color: #EDF6F9;
+}
+.btnCont{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+}
+
+.listaOpciones{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,150px);
+    gap: 10px;
+    list-style: none;
+}
+
+.titulo{
+    text-align: center;
+}
+
+@media (min-width: 767px) {
+
+    .btnCont>*{
+        list-style: none;
+        width: 25%;
+        align-items: center;
+        font-size: 2vw;
+        
+    }
+}

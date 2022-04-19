@@ -1,0 +1,23 @@
+[
+    {   "idOpcion":"1",
+        "opcion":"Evento Solidario",
+        "valorHexadec":"#f00"
+    },
+    {
+        "idOpcion":"2",
+        "opcion":"Cullar Carrera",
+        "valorHexadec":"#0f0"
+    },
+    {
+        "idOpcion":"3",
+        "opcion":"Granada Activa",
+        "valorHexadec":"#00f"
+    },
+    {
+        "idOpcion":"4",
+        "opcion":"Andaluces deportivos",
+        "valorHexadec":"#00f"
+    }
+
+]
+

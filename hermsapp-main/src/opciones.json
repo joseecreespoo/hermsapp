@@ -1,0 +1,22 @@
+[
+    {
+        "idOpcion":"1",
+        "opcion":"HOME",
+        "link":"/"
+    },
+    {   "idOpcion":"2",
+        "opcion":"EMPRESAS",
+        "link":"/menuEmpresas"
+    },
+    {
+        "idOpcion":"3",
+        "opcion":"EVENTOS",
+        "link":"/menuEventos"
+    },
+    {
+        "idOpcion":"4",
+        "opcion":"PARTICIPANTES",
+        "link":"/menuParticipantes"
+    }
+]
+
